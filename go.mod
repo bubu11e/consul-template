@@ -6,8 +6,8 @@ require (
 	github.com/BurntSushi/toml v1.2.0
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/davecgh/go-spew v1.1.1
-	github.com/hashicorp/consul/api v1.15.2
-	github.com/hashicorp/consul/sdk v0.11.0
+	github.com/hashicorp/consul/api v1.16.0
+	github.com/hashicorp/consul/sdk v0.12.0
 	github.com/hashicorp/go-gatedio v0.5.0
 	github.com/hashicorp/go-hclog v1.3.1
 	github.com/hashicorp/go-multierror v1.1.1
@@ -17,7 +17,7 @@ require (
 	github.com/hashicorp/hcl v1.0.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/nomad/api v0.0.0-20220707195938-75f4c2237b28
-	github.com/hashicorp/serf v0.9.7 // indirect
+	github.com/hashicorp/serf v0.10.1 // indirect
 	github.com/hashicorp/vault/api v1.8.0
 	github.com/imdario/mergo v0.3.13
 	github.com/mitchellh/go-homedir v1.1.0
